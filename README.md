@@ -4,3 +4,4 @@ React app, com servidor em Python (Flask), que recebe as informações de um scr
 
 O script pega as informações do SofaScore
 
+video explicando e demonstrando: https://youtu.be/EaZFx2sk7b8
